@@ -1,0 +1,41 @@
+PAGE: Home Page and Announcements
+SOURCE: https://sp-ie.metu.edu.tr/en
+---
+
+ANNOUNCEMENT - SP Meeting 2025:
+A general meeting on IE 300 - IE 400 summer internship courses and the Summer Practice (SP) procedures was held on March 14, 2025, at 14:40. IE300 in IE03 and IE400 in IE04. Meeting slides can be found under Documents/Forms.
+
+ANNOUNCEMENT - SGK Insurance Applications:
+The OCW system for applying for SGK insurances is now activated. Read the instructions in General Information carefully before applying.
+
+ANNOUNCEMENT - Summer Internship Contracts:
+If you need your SP work contract (staj sözleşmesi) to be signed, leave it at the Undergraduate Secretary Office, IE 129, and pick it up in one week.
+
+ANNOUNCEMENT - Introductory Meeting for Summer Practice IE300 and IE400 (Spring 2026):
+The Internship Information Meeting for Spring 2026 will be held on Friday, April 17, 2026 between 10:30 and 11:40. IE300 meeting in Ömer Saatçioğlu Auditorium. (Published: 10/04/2026)
+
+ANNOUNCEMENT - IE300 and IE400 Summer Practice Manuals:
+IE300 Summer Practice Manual, IE400 Summer Practice Manufacturing Manual, and IE400 Summer Practice Service Manual are available under Forms.
+
+ANNOUNCEMENT - Summer Practice Opportunities:
+New summer-practice opportunities are posted on the SP Opportunities page when available.
+
+---
+
+DOCUMENTS/FORMS (Known available documents):
+The Documents/Forms page (https://sp-ie.metu.edu.tr/en/forms) contains:
+- SP Application Letter (for companies requesting official documentation)
+- SP Protocol / Agreement Form (sözleşme)
+- SP Evaluation Form (to be filled by SP supervisor)
+- Employer Survey (to be filled by SP supervisor)
+- Declaration Form for students with/without family health insurance (for SGK application)
+- Paid Summer Practice Form (İşsizlik Fonu Katkısı Bilgi Formu)
+- IE300 Summer Practice Manual
+- IE400 Summer Practice Manufacturing Manual
+- IE400 Summer Practice Service Manual
+- Meeting slides from SP meetings
+- Emergency SGK application Excel file
+
+Note: Direct download links for some forms:
+- Paid SP Form: https://sp-ie.metu.edu.tr/en/system/files/issizlik_fonu_katkisi_bilgi_formu_1.doc
+- Emergency SGK Excel: https://sp-ie.metu.edu.tr/en/system/files/kzso-sa01-f04_stajyer_ogrenci_bilgi_formu_guncelleme_0.xls

@@ -1,0 +1,76 @@
+PAGE: General Information
+SOURCE: https://sp-ie.metu.edu.tr/en/general-information
+LAST UPDATED: 03/06/2025
+
+---
+
+IMPORTANT INFORMATION FOR STUDENTS WHO WILL DO THEIR SP THIS SUMMER:
+
+- Summer internships must be done by physically attending the work place.
+
+- For IE 400, project based internships are allowed. Project based internship should be at least 6 weeks. Before the internship, you need to submit a proposal to the SP Committee which covers the content of the internship in detail. If the proposal is approved you can do the project based internship.
+
+- Internships in public institutions: All public institutions in Turkey (Kamu kurumları) accept internship applications through a centralized system. Please consult https://kariyerkapisi.cbiko.gov.tr/ for further information.
+
+- Within the Erasmus program, it is possible to do an internship within the scope of Student Internship mobility. You may generally prefer an internship in Europe for a minimum of 3 months and a maximum of 12 months. For detailed information, please check the Erasmus office website at https://ico.metu.edu.tr/. If the summer internships completed within the scope of this program are made for a short term (3 months), it can only be counted as one of IE300 and IE400 internship.
+
+---
+
+SGK INSURANCE APPLICATION SYSTEM
+
+SGK Insurance Applications will be followed via METU OpenCourseWare platform (OCW). The insurance application module in the OCW system is now open. All 1st, 2nd, 3rd, and 4th year students are registered to the "IE300/400 Summer Internship" course by default.
+
+Important notes:
+1. The "IE300/400 Summer Internship" OCW course is created only for the practical purpose of collecting the insurance application information of students. This is not a real "course". When your internship is over, you still need to get registered for the IE300 or IE400 courses in the Fall semester (or summer school if you are planning to).
+2. If you are not planning to do an SP this year, just ignore all the instructions. You do not have to do anything about the OCW system.
+
+WHEN TO APPLY FOR THE SGK INSURANCE:
+- The ideal moment to apply is 2-3 weeks before the beginning of your internship.
+- On the Monday morning of each week, the insurance applications of students beginning their internships within two weeks will be sent to Rektörlük.
+- You should leave a safety margin of 1 whole week (Monday to Friday) between your application and the beginning of your SP.
+- Do not apply too early (e.g., 2 months before). Rektörlük does not process insurance applications that start in more than two weeks.
+- Do not apply too late (e.g., 5 days before your internship starts).
+
+HOW TO APPLY FOR THE SGK INSURANCE:
+1. Login to https://ocw.metu.edu.tr/ with your usual student account.
+2. You should be already registered to the IE 300/400 course under "My courses". If not, email the SP committee at ie-staj@metu.edu.tr.
+3. Click on IE 300/400 and see "Required Information" in the course menu.
+4. Click on "SGK Insurance Application" and fill in your identity and company information. Click "Submit Questionnaire" when finished.
+5. Upload your "Declaration Form for students with/without family health insurance" (available at https://sp-ie.metu.edu.tr/en/forms).
+6. After completing these steps, your application is done. You will not receive any notification or confirmation.
+7. Your SGK insurance document will be available on e-devlet typically 2-3 workdays before the beginning of your SP.
+   - Login to https://www.turkiye.gov.tr/
+   - Type "işe giriş" in the search field
+   - Select "4A İşe Giriş Çıkış Bildirgesi (Sosyal Güvenlik Kurumu)"
+   - Find the line corresponding to your current SP and click "Belge oluştur"
+   - The SGK document is NOT sent by email; it is available on e-devlet.
+
+EMERGENCY APPLICATIONS:
+If your internship starts soon and you could not apply via OCW on time, fill in the excel file at https://sp-ie.metu.edu.tr/en/system/files/kzso-sa01-f04_stajyer_ogrenci_bilgi_formu_guncelleme_0.xls and email it to ie-staj@metu.edu.tr with subject line: "SGK basvurusu: Name Surname dd.mm.2025"
+
+IF SOMETHING GOES WRONG:
+- If you made a mistake in the questionnaire and it has NOT been sent to Rektörlük yet: Enter a new questionnaire with correct information. The most recent version will be used.
+- If it has already been sent to Rektörlük: Contact ie-staj@metu.edu.tr.
+- If your internship is cancelled: Contact ie-staj@metu.edu.tr.
+- If your SGK document is not ready: Rektörlük issues documents typically 2-3 workdays before SP begins. If your SP begins the next workday and the document is still not accessible, contact the SP Committee in the morning.
+
+---
+
+VOLUNTARY INTERNSHIPS
+
+You can get SGK insurance for voluntary internships. Voluntary internships are not mandatory and not asked by the department. The entire process is between the student and the company. SGK insurance is provided for up to one month for one company.
+
+Follow the same OCW procedure for a new SGK application. Make sure to send the second application once the first SGK document is already issued. Rektörlük recommends leaving at least one blank day between two SPs.
+
+Foreign students are NOT allowed to do voluntary internships in Turkey. A work permit is required.
+
+---
+
+INSTRUCTIONS FOR PAID SUMMER PRACTICES
+
+If you did your SP in a private company in Turkey and received payment, do the following after finishing your SP and receiving all payments (if no payment or if done in a public institution, ignore this):
+
+1. Login to https://ocw.metu.edu.tr/
+2. Fill in the "Paid SP form questionnaire" under the IE300/400 course. Fill all entries carefully.
+3. Download, print, and sign the Paid Summer Practice Form from https://sp-ie.metu.edu.tr/en/system/files/issizlik_fonu_katkisi_bilgi_formu_1.doc. Upload scanned copy (pdf) under the assignment "İşsizlik Fonu Katkısı Bilgi Formu (Paid SP Form)".
+4. Upload the bank receipt (pdf) showing payment from the company under the assignment "Stajda ücret ödendiğine dair banka dekontu (Bank receipt for paid SPs)".

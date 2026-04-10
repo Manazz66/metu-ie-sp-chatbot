@@ -1,0 +1,32 @@
+PAGE: Documents/Forms
+SOURCE: https://sp-ie.metu.edu.tr/en/forms
+LAST UPDATED: 27/08/2025
+
+---
+
+INTERNSHIP PRESENTATIONS
+- IE 300 Introductory Session slides
+- IE 400 Introductory Session slides
+
+SUMMER PRACTICE APPLICATION LETTERS
+- IE-300 Summer Practice Application Form (Turkish version)
+- IE-300 Summer Practice Application Form (English version)
+- IE-400 Summer Practice Application Form (Turkish version)
+- IE-400 Summer Practice Application Form (English version)
+- SP Protocol (if requested by the company)
+
+INSURANCE FORMS
+- Declaration Form for students with family health insurance
+- Declaration Form for students without family health insurance
+- Paid Summer Practice Information Form (İşsizlik Fonu Katkısı Bilgi Formu)
+
+SP EVALUATION FORM AND EMPLOYER SURVEY FORM
+- Evaluation Form and Employer Survey (Turkish version)
+- Evaluation Form (English version)
+
+SP MANUALS
+- IE300 Summer Practice Manual
+- IE400 Summer Practice Manufacturing Manual
+- IE400 Summer Practice Service Manual
+
+All documents are available for download at: https://sp-ie.metu.edu.tr/en/forms (METU login required)

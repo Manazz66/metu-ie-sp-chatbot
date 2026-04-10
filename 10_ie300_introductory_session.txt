@@ -1,0 +1,126 @@
+PAGE: IE 300 Summer Practice - 2025-2026 Introductory Session
+SOURCE: ie300_introduction_2025.pdf (from Documents/Forms page)
+
+---
+
+PREREQUISITES FOR IE 300:
+- IE 102 +
+- IE 251, IE 265, IE 241, OHS 101 (fall semester courses) +
+- One out of {IE 266, IE 252} (spring semester courses)
+- If any one of these prerequisite courses is not completed with a grade >= DD, IE300 summer practice cannot be conducted.
+- If you are in probation in the Fall semester, you cannot take the IE300 course even if you successfully finished your SP.
+
+---
+
+ABOUT IE 300:
+- IE 300 is a must (required) course which is non-credit. Your grade should be S (satisfactory) for graduation.
+- It is integral and complementary to the IE curriculum.
+- You gain your first experience of professional life.
+- For the first time you get to know a company with all her aspects, you get involved in the decision problems of a company.
+- You get the chance of observing: whole supply chain, manufacturing processes, sustainability concerns, cost accounting issues, use of operations research methods, use of statistical analysis and big data, team work, IE roles and jobs.
+
+---
+
+IE 300 - WHEN TO CONDUCT:
+- Conduct IE 300 summer practice in Summer 2025.
+- Available time interval (~3 months): June 25 – September 26.
+- If you attend summer school, your summer practice period should not overlap with summer school.
+- Minimum practice is 20 workdays (4 weeks).
+- If you are in graduation status and have completed all your course work, you can conduct both IE 300 and IE 400 in succession in Summer 2025.
+
+---
+
+REGISTRATION FOR IE 300:
+- After SP is completed, you must register for IE 300 in the immediate academic term (Fall 2025-2026).
+- Summer practice reports are due within the first 4 weeks of the registered academic term.
+- Due date: October 24, 2025.
+
+---
+
+STEP 1: SEARCH FOR ALTERNATIVE COMPANIES
+
+Accepted company types for IE 300 (MANUFACTURING ONLY):
+- Automotive
+- Machine parts
+- Electronics
+- Furniture
+- Textiles
+- Consumer durables (refrigerator, washing machine, etc.)
+- Batch process industries: Steel, Paper mills, Pharmaceutical, Food and beverages
+
+NOT accepted for IE 300:
+- "Continuous process" industries: Cement, concrete, Sugar, Flour mill
+- "Service industries": Hospitals, Hotels, Banking, Research organizations, Transportation, cargo carriers
+
+The department lists firms on the SP website > SP Opportunities. Check regularly for updates.
+Summer practice must be conducted totally in the factory (face-to-face). Online or hybrid type is NOT allowed for IE 300.
+
+---
+
+STEP 2: EVALUATE THE COMPANY
+- Check the IE 300 Manual from https://sp-ie.metu.edu.tr > Documents/Forms tab.
+- Check whether you can answer the questions without much difficulty.
+- Consider: Number of employees? How many engineers, IEs? Production capacity? Information system? ERP?
+- The SP Committee does not examine and confirm the suitability of your SP company in advance. Students determine whether the company is appropriate.
+- Discuss with the SP Committee if you are not sure about the appropriateness.
+
+---
+
+STEP 3: APPLY TO THE COMPANY
+- Some companies request an SP Application Form (letter) — available under Documents/Forms tab.
+- Some companies may request an SP Protocol (sözleşme) form — also under Documents/Forms tab.
+- After filling the protocol form, leave it at Undergraduate Secretary Office. Pick up the signed form in a week.
+
+---
+
+STEP 4: APPLY FOR THE INSURANCE
+- When accepted by the company and your decision is CERTAIN, apply via METU OCW (https://ocw.metu.edu.tr).
+- Fill out the questionnaire under "SGK Insurance Application" 2-3 weeks before the beginning of your SP.
+- Also upload the "Declaration Form for students with/without family health insurance" to OCW.
+- The compulsory insurance: iş kazası ve meslek hastalığı sigortası (Law #5510: Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu).
+- Get a copy of "Sigortalı İşe Başlama Belgesi" from e-devlet when ready.
+- METU provides insurance for all SP students upon application.
+- For compulsory SPs: insurance for 20 workdays to 3 months.
+- Insurance is made for summer practices abroad as well.
+- If the company insures you, you do not need to apply to the university.
+
+---
+
+STEP 5: CONDUCT YOUR SUMMER PRACTICE
+- Download "Evaluation Form and Employer Survey Form" from Documents/Forms tab (two pages: "Başarı Belgesi" and "İşveren Anketi").
+- Attach a recent photograph to the first page.
+- The company should fill out these forms at the end of your SP and email to sp-belge@metu.edu.tr.
+
+---
+
+STEP 6: SUBMIT YOUR REPORT
+- Upload your SP report and questionnaire at odtuclass at the beginning of the following semester by the announced due date.
+- The report is written based on the IE 300 manual. You should answer all questions in the manual.
+- In some questions (e.g. accounting, finance), provide information about the method used at least, if not provided with sufficient data.
+- For each question, provide sufficient explanation and analysis; giving a figure/table only is not accepted.
+- Before answering a question, read the explanation in the question and answer accordingly.
+- You can start writing your report during the practice.
+- You can use "Google Grammarly" to correct the report before submission.
+- Submit soft copy (pdf: docx converted to pdf) at odtuclass IE 300 – turnitin assignment. Similarity must be < 20%.
+- Reports are also checked whether they are AI generated.
+- For the questionnaire: use METU Survey (info from SP Committee at beginning of semester).
+- If you received payment during SP: fill "Paid SP questionnaire" at OCW, upload signed Paid SP Form and bank receipt.
+
+---
+
+VOLUNTARY SP:
+- It is possible to do a voluntary internship for additional work experience.
+- University provides insurance for voluntary SP if you have completed your second year.
+- For voluntary SPs: insurance for one month at most for only one organization.
+- Follow the same insurance application procedure.
+
+---
+
+CANDIDATE ENGINEERING PROGRAMS:
+- Candidate engineering activities during semesters do not count for IE300 since SP cannot overlap with the teaching period.
+- If you continue candidate engineering during summer and work for 20 full workdays in a row, then it can be presented for IE300.
+
+---
+
+IMPORTANT NOTES:
+- ie-staj@metu.edu.tr is NOT a call center. Check the SP presentation and web page before emailing.

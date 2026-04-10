@@ -1,0 +1,128 @@
+PAGE: IE 300 Summer Practice Manual
+SOURCE: ie300-manual_1.pdf (from Documents/Forms page)
+NOTE: This manual provides guidelines for the summer practice report of METU IE second year students.
+
+---
+
+REPORT FORMAT AND STYLE:
+- Report must be written in English, printed in ink or typed.
+- Main section headings: numbered, written in CAPITAL letters.
+- Subtitles: lowercase letters, underlined.
+- All pages must have page numbers. Figures, drawings, tables, pictures must be numbered.
+
+Report sections:
+1. Table of contents (with page numbers)
+2. Introduction (scope of SP; main difficulties faced)
+3. Main body of the report (detailed explanation of work carried out)
+4. Conclusion (evaluation of experience gained; feedback on SP content)
+5. References (all material referred to in the report)
+6. Appendix (data, tables, diagrams not immediately relevant to main text)
+
+- Questions may be followed in the given order, or the student may reorganize subsections as long as all questions are answered.
+- If a question is not appropriate or a suitable answer is not available, it can be disregarded with a clear justification.
+- Adding a glossary for technical terms is advisable.
+- Reports are due within the first two weeks of the following academic term.
+
+---
+
+EVALUATION OF THE REPORTS:
+Total: 200 points. You must collect at least 50% of points for each section.
+
+Point breakdown:
+- Section 1: Introductory Features — 10 points
+- Section 2: Analysis of Macro Aspects — 20 points
+- Section 3: Management Information System — 20 points
+- Section 4: An Overview of the Production System — 35 points
+- Section 5: Production Planning and Control System — 35 points
+- Section 6: Quality Planning and Control System — 20 points
+- Section 7: Observation of a Professional at Work — 15 points
+- Section 8: Analysis of a Decision Making Problem — 20 points
+- Section 9: Conclusion — 15 points
+- Style and Organization of the Report — 10 points
+
+Grading rules:
+- Total < 160 points OR any section < 50% → "Incomplete" — report returned for revision.
+- Total < 125 points → "Unsatisfactory" — summer practice must be repeated at a different workplace.
+- Otherwise → "Satisfactory" (S grade).
+
+You must also fill out the online questionnaire (announced at beginning of semester). Failure to do so → report considered incomplete.
+
+---
+
+SECTION 1: INTRODUCTORY FEATURES (10 points)
+Q1.1: Full title of the firm? When founded? Location (full address)?
+Q1.2: Main shareholders and their shares. Joint venture, franchise, part of holding company or multinational group?
+Q1.3: Sector and typical products manufactured. Shares in domestic and international markets.
+Q1.4: Who are the customers (end users, retailers, other manufacturers, employees)? Identify stakeholders (certifying agencies, labor unions, professional societies, government, local community, potential customers, competitors, employees).
+Q1.5: List of functions performed by industrial engineers in the practice organization.
+
+---
+
+SECTION 2: ANALYSIS OF MACRO ASPECTS (20 points)
+Q2.1: Identify major items of input of the production system. Specify where and how they are supplied (sources, means of transportation, volume and frequency of deliveries, usage rates).
+Q2.2: Identify major facilities of the manufacturing firm on a rough sketch. Show items that flow among them.
+Q2.3: Specify the most prevailing factor for selecting the current location of the facility (distribution needs, raw material availability, product characteristics, labor availability, transportation facilities, proximity to suppliers, environmental factors, laws/taxation/incentives, cost of land/buildings). Support your ideas.
+
+---
+
+SECTION 3: MANAGEMENT INFORMATION SYSTEM (20 points)
+Q3.1: Specify decision makers and decision-making subjects at three levels:
+  a) Strategic level (plant expansion, product lines, mergers, diversification, capital expenditures)
+  b) Tactical level (resource allocation, budgets, funds flow, plant layout, personnel)
+  c) Operational level (receiving/shipping, scheduling, inventory control, quality control, worker allocation)
+  Provide one decision-making activity for each level.
+Q3.2: Identify computer systems in use (networks, PCs, workstations, mainframes — types and capacities) and their spread across functions/departments.
+
+---
+
+SECTION 4: AN OVERVIEW OF THE PRODUCTION SYSTEM (35 points)
+Q4.1: Provide a schematic representation of material flow of a particular product — from raw materials inventory through finished goods inventory, showing every workstation and stock point.
+Q4.2: Explain the type of operations (continuous process, repetitive/flow shop, intermittent/job shop/batch shop/project shop) with regards to production volume or product variety. Describe reasons in detail.
+Q4.3: Discuss the type of layout (process layout, product layout, group technology/cellular layout, fixed-position layout, or combination). Support with rough sketches.
+Q4.4: Identify materials handling equipment — where and for what purposes used. Draw a path followed by one piece of equipment.
+Q4.5: Compute/describe an appropriate productivity measure for the practice organization (labor, capital, energy, material usage).
+Q4.6: Are unit-manufacturing costs calculated? If yes, explain how (direct material cost + direct labor cost + factory overhead). Provide an example. If no, describe how expenses are accounted for under different cost items.
+Q4.7: Carry out comparative ratio analysis using balance sheets and income statements for the last two years. Evaluate the financial standing. Calculate all necessary ratios. OR itemize titles for the balance sheet/income statement.
+
+---
+
+SECTION 5: PRODUCTION PLANNING AND CONTROL SYSTEM (35 points)
+Q5.1: State typical decisions on types and quantities of specific products. Who makes these decisions? How are decisions recorded and transferred? What is the basis for these decisions?
+Q5.2: What resources are controlled as scarce through careful planning? How are their uses planned? How are plans monitored?
+Q5.3: State four different items kept in stocks. What requirements do they serve? Plot inventory on hand vs. time for at least one item. Observe any pattern? How can you explain it? Supply data sources. What difficulties exist in managing inventories?
+
+---
+
+SECTION 6: QUALITY PLANNING AND CONTROL SYSTEM (20 points)
+Q6.1: Choose a product and explain how the organization defines quality of it. How are customer requirements translated into product/service specifications? Describe quality control activities throughout the product life cycle:
+  a) Product/service design stage
+  b) Manufacturing/service process design stage
+  c) Manufacturing/service delivery stage
+  d) Usage stage (warranty and repair)
+
+---
+
+SECTION 7: OBSERVATION OF A PROFESSIONAL AT WORK (15 points)
+Q7.1: Identify the most appealing position to you. Observe a professional in that position and narrate: tasks/responsibilities, typical workday, % breakup of activities, who they manage, who they report to, background and skills needed.
+
+---
+
+SECTION 8: ANALYSIS OF A DECISION MAKING PROBLEM (20 points)
+Q8.1: Identify a decision making problem in the organization. Formulate it:
+  - Who is the decision maker (owner of the problem)?
+  - What is the goal or objective (direction and satisfactory amount of improvement)?
+  - What are the alternative courses of action?
+  - What are the limitations, restrictions, and requirements of the system?
+
+---
+
+SECTION 9: CONCLUSION (15 points)
+Q9.1: Answer the following:
+  - Is the procedure sufficient in scope, method and approach? If not, identify drawbacks and suggestions. If yes, what did you enjoy most?
+  - If you had another four weeks, what would you do and why?
+  - What do you expect to learn in future IE training to improve understanding of production systems?
+  - Discuss differences between IE and other engineering disciplines in the production environment.
+  - If IEs are employed, what areas do they work in? If not, what activities are suitable for IEs?
+  - Discuss top management's impression and attitudes towards IE functions and activities.
+
+Q9.2: Fill out the online questionnaire by the submission date. Otherwise report is considered incomplete.

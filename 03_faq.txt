@@ -1,0 +1,43 @@
+PAGE: Frequently Asked Questions (FAQ)
+SOURCE: https://sp-ie.metu.edu.tr/en/faq
+LAST UPDATED: 28/03/2024
+
+---
+
+Q: How can I arrange a summer practice organization?
+A: There are two alternatives: either you apply to organizations personally or wait for the summer practice opportunities announced by the department. The second option is more risky and the capacity is usually very limited. Certain firms require the department to determine the candidates. In that case, an announcement is made and students are required to send transcripts, resumes, and fill out the Preference Form available under Forms. If the student is assigned through the department, it is mandatory that the summer practice is conducted at that company.
+
+Q: Which departments of the organization should I visit during my summer practice?
+A: It is preferable to take an all-around trip in an organization. You can gather many observations through effective communications. You can inquire about the overall operations although you are stationed at a particular department.
+
+Q: What kind of topics will I be studying during the practice term?
+A: Industrial engineering has a broad application area. Its main field of interest is systems run by people for the needs of others. Summer practice is your first lengthy period of observing and inquiring about systems in operation. Try to relate what you covered in courses to what you experience during practice. Learn about the many possible ways of getting organizational and technical functions performed. Use your "Summer Practice Manual" to guide you.
+
+Q: What sort of branches or divisions in a bank are suitable for an IE 400 practice organization?
+A: You should be interested in the systems aspects (organizational, information related, procedural, managerial) in service provision. In IE 400, you are required to observe and analyze a purposeful system in real life. Divisions or branches in a bank are suitable so much as they consist of integrated operation of people, financial resources, processes and information with some performance expectation.
+
+Q: What is the paperwork needed to get officially registered to summer practice?
+A: Four steps are required:
+1. Add IE 300/IE 400 course in the registration at the beginning of the semester.
+2. Submit the summer practice reports to Students Affair Secretary (Room IE 128) within the first two weeks of the following academic term. Also submit the soft copy through the web-site.
+3. The company should send the filled out and signed evaluation form and employer survey to Student Affairs Secretary.
+4. Fill out the online questionnaire (will be announced).
+
+Q: What constitutes a "sufficient" IE problem definition in IE 400 reports?
+A: This is described in Appendix A of the IE 400 Summer Practice Manual. You are required to supply your own description of the components of a problem formulation and justify your points. You should be specific to your practice organization. Problem identification should be the result of some methodical analysis. Alternative courses of action and constraining factors should be supported by problem specific facts.
+
+Q: How should a student answer questions in manufacturing oriented areas if the practice is done in a service organization?
+A: The critical issue is to see the analogies. A budget allocation might substitute a production plan, preclassified records may stand as inventory, timetables for professionals can be counted as their schedules, form flow may replace material flow. Highlight the reasons you think justify such similarities.
+
+Q: What sort of reporting is acceptable if several students practice in the same organization?
+A: Every student will have a separate report as a rule. General outlook at the firm can be common for IE 400 only. You should choose separate examples for reporting on your observations.
+- Questions part must be different and separate for each student.
+- Problem definitions must be different in any case.
+- Project part might be the same if the project is complex (valid for at most two students).
+- Students performing a project type IE 400 SP can prepare either a regular report or a project type report. Students working on the same project can submit the same project type report.
+
+Q: Is there a manual available for IE 400 summer practice done in service sector?
+A: Yes, a copy of the manual can be obtained from the photocopy office in the department. It is also available under Documents/Forms on the SP website.
+
+Q: Can I present a project work instead of performing a regular practice for IE 400?
+A: IE 400 practice may involve a project type study. Minimum duration for this type is 30 workdays (6 weeks). You need to submit a two-page project proposal including brief description of the company and details of the proposed project. The proposal should be approved (signed) by the company and submitted to the SP committee by the first week of the summer practice. If it fulfills the requirements, you can submit a specially qualified report. The committee may ask you to add parts from the regular content as well. Your report should describe all phases of the work done including the issue, organizational environment, data collected, tools used, outcomes, and implementation.

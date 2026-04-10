@@ -1,0 +1,181 @@
+PAGE: IE 400 Summer Practice Manufacturing Manual
+SOURCE: ie400-manufacturing_manual_1.pdf (from Documents/Forms page)
+NOTE: Guidelines for the summer practice report of METU IE third year students doing SP at manufacturing firms.
+
+---
+
+REPORT FORMAT AND STYLE:
+- Same as IE 300: English, numbered headings in capitals, subtitles in lowercase underlined, page numbers, numbered figures/tables.
+
+Report sections:
+1. Table of contents (with page numbers)
+2. Introduction (scope of SP; main difficulties)
+3. Main body (detailed work including IE problem or contributed project sections)
+4. Conclusion (evaluation of experience; feedback)
+5. References
+6. Appendix
+7. Glossary (advisable, including company-specific jargon)
+
+- Reports due within first two weeks of following academic term.
+- Questions may be reorganized as long as all are answered.
+- Unanswerable questions may be skipped with clear justification.
+
+---
+
+EVALUATION OF THE REPORTS:
+Two separate scores — students must pass BOTH:
+
+QUESTIONS SECTION (200 points):
+- Introductory Features: 10 points
+- Analysis of Macro Aspects: 20 points
+- An Overview of the Production System: 35 points
+- Production Planning and Control System: 50 points
+- Quality Planning and Control System: 20 points
+- Management Information System: 20 points
+- Work Study: 20 points
+- Conclusion: 15 points
+- Style and Organization: 10 points
+
+Questions grading rules:
+- Must score at least 50% in EACH section.
+- Total 125-160 points OR any section < 50% → "Incomplete" — returned for revision.
+- Total < 125 → "Unsatisfactory" — SP must be repeated at different workplace.
+
+PROBLEM / PROJECT SECTION (100 points):
+Evaluated on: problem/project context (IE relevance), technical content, style and organization.
+- Score 40-65 → "Incomplete" — returned for revision.
+- Score < 40 → "Unsatisfactory" — SP must be repeated.
+
+PROJECT-TYPE SP REPORT (100 points breakdown):
+- Introduction (company description): 5 points
+- Literature Review: 10 points
+- Problem Definition: 30 points
+- Data Gathering and Analysis: 10 points
+- Solution Approaches: 20 points
+- Results: 15 points
+- Conclusion: 10 points
+
+Must also fill out online questionnaire by submission date — otherwise report is incomplete.
+
+---
+
+IMPORTANT NOTE ON CHAPTERS 4-7:
+You do NOT have to answer ALL questions in Chapters 4, 5, 6, and 7.
+Minimum requirements: at least 3 questions from Ch.4, at least 2 from Ch.6 (Quality), at least 1 from Ch.5 (MIS), and at least 1 from Ch.7 (Work Study).
+
+---
+
+SECTION 1: INTRODUCTORY FEATURES (10 points)
+Q1.1: Full title, founding date, location (full mailing address).
+Q1.2: Type of ownership, main shareholders and shares. Partnership, joint venture, franchise, holding, multinational?
+Q1.3: Sector and typical products/services. Include advertising brochures/catalogues in appendix. Domestic and international market shares.
+Q1.4: Customers (end users, retailers, manufacturers, employees). Identify stakeholders.
+Q1.5: Functions performed by industrial engineers.
+
+---
+
+SECTION 2: ANALYSIS OF MACRO ASPECTS (20 points)
+Q2.1: Sketch the production system as a black box — inputs and outputs. Does the firm export? Import raw materials? Standards and certificates (ISO, TSE, EN, EC)?
+Q2.2: State the mission and vision of the practice organization. Differences in missions for different products/services?
+Q2.3: Most prevailing factor for facility location (distribution needs, raw materials, labor, transportation, suppliers, environment, laws/taxation, land cost). Support with quantitative/qualitative observations.
+
+CHOOSE ONE of 2.4 or 2.5:
+Q2.4: Capital investment plans and proposals. Evaluation methods and criteria. Effects of inflation. Example of past investment evaluation.
+Q2.5: How did firm obtain know-how/technologies? Improvements/upgrades? Licensed trademarks/patents? R&D unit? Project management for capital investments or technology adoptions?
+
+---
+
+SECTION 3: AN OVERVIEW OF THE PRODUCTION SYSTEM (35 points)
+Q3.1: Process (operations) chart of a major product/subassembly, routing for a group of products, or service process.
+Q3.2: How is rated capacity defined and measured? (Rated capacity = Designed capacity × Utilization × Efficiency)
+Q3.3: Type of operations — continuous, repetitive/flow shop, intermittent (job shop/batch shop/project shop). Also: MTS, MTO, or ATO classification.
+Q3.4: Draw a block plan of the practice organization (or provide blueprint).
+Q3.5: Discuss layout types (process, product, cellular/GT, fixed-position, or combination).
+Q3.6: Select a department — indicate layout type and discuss how characteristics fit.
+Q3.7: Unit-manufacturing costs — how calculated? (direct material + direct labor + overhead). Provide example.
+Q3.8: Comparative ratio analysis using balance sheets and income statements for last two years, OR itemize balance sheet/income statement titles.
+
+---
+
+SECTION 4: PRODUCTION PLANNING AND CONTROL SYSTEM (50 points)
+(Answer at least 3 questions)
+
+Q4.1: Forecasting activities — purposes, methods, data sources, model used, accuracy measurement, computer support. Provide example.
+Q4.2: Who decides what and how much to produce? How? What resources are scarce? Current limits? Main concerns in allocation (customer satisfaction, cost, time, utilization)? How are plans made and reviewed?
+Q4.3: Major inventory items by function. Reasons for holding (uncertainty, seasonal, cycle stocks, quantity discounts, pipeline). Inventory control policies (periodic vs continuous review). MRP activity? Performance measures.
+Q4.4: Detailed scheduling activities. Records (timetables, daily lists, charts)? Example. Apply performance measure on schedule implementation.
+Q4.5: JIT philosophy — organized studies to reduce slack? Example of allowance/slack used to assure uninterrupted operation.
+
+---
+
+SECTION 5: QUALITY PLANNING AND CONTROL SYSTEM (20 points)
+(Answer at least 2 questions)
+
+Q5.1: Choose a product — how does the organization define quality? How are customer requirements translated into specifications? Quality control activities throughout product life cycle (design, process design, delivery, usage).
+Q5.2: At least three proactive (preventive) quality assurance activities. How is responsibility of quality shared (quality organization)?
+
+---
+
+SECTION 6: MANAGEMENT INFORMATION SYSTEM (20 points)
+(Answer at least 1 question)
+
+Q6.1: Decision makers and subjects at strategic, tactical, and operational levels. One activity per level.
+Q6.2: Computer systems — types, capacities, spread across departments. Types of data recorded/processed in a specific division. Level of decision supported.
+Q6.3: Software used — ERP, reservation system, stock keeping, accounting (not standard office programs). Level of decision supported. Example.
+
+---
+
+SECTION 7: WORK STUDY (20 points)
+(Answer at least 1 question)
+
+Q7.1: Apply a work measurement technique (stopwatch, predetermined time standards, work sampling) to an operator. Evaluate results. Apply method study for more effective methods.
+Q7.2: Has there been a Job Evaluation study? If yes, describe method and implementation. If no, how is wage differentiation determined?
+
+---
+
+SECTION 8: CONCLUSION (15 points)
+Q8.1: Same structure as IE 300 conclusion:
+- Is the procedure sufficient? Drawbacks/suggestions? What was most difficult about studying an IE problem?
+- If you had another four weeks, what would you do?
+- Future IE training expectations.
+- Differences between IE and other engineering disciplines.
+- IE roles in the firm. Top management's impression of IE.
+
+Q8.2: Fill out online questionnaire by submission date — otherwise incomplete.
+
+---
+
+APPENDIX A: DEFINITION AND FORMULATION OF IE PROBLEMS
+
+Step 1 — Identification and Definition:
+- Observe symptoms (deficiencies in planning, low utilization, inventory problems).
+- Validate symptoms with objective data.
+- Use analysis tools: cause-effect diagrams, Pareto analysis, relations diagram, logic tree, flowcharts, check sheets, rich pictures, brainstorming, run charts, influence diagrams, multivoting, nominal group technique, stratification, affinity diagrams, precedence diagrams.
+
+Step 2 — Formulation:
+- Decision maker (owner of the problem)
+- Goal/objective (direction and satisfactory amount of improvement)
+- Performance criteria
+- Alternative courses of action
+- Limitations, restrictions, requirements
+- Analysis of interactions with subsystems
+- Comment on specific modeling approaches.
+
+---
+
+APPENDIX B: REPORTING ON A PARTICIPATED PROJECT
+
+If project is COMPLETED, report must include:
+1. Introduction (products/processes, context, team composition)
+2. Problem statement (issue addressed, IE relevance)
+3. Approach taken (planned stages, modifications, your role)
+4. Summary of work done (data gathered, methods, results)
+5. Conclusions and recommendations (outcomes, suggestions, extensions)
+
+If project is STILL IN PROGRESS, report must include:
+1. Introduction
+2. Problem statement
+3. Approach taken (planned stages, your role)
+4. Project schedule (activity network or Gantt chart)
+5. Work done to date (data gathered so far, methods, results to date)
+6. Expectations of outcomes (prospective benefits, evaluation)

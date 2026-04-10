@@ -1,0 +1,138 @@
+PAGE: IE 400 Summer Practice - 2025-2026 Introductory Session
+SOURCE: ie400_introduction_2025.pdf (from Documents/Forms page)
+
+---
+
+PREREQUISITES FOR IE 400:
+- IE 300 +
+- IE 252, IE 323, IE 333 +
+- Any two courses from the set: {IE 304, IE 324, IE 372, IE 368}
+- If any one of the prerequisite courses is not completed with a grade >= DD, IE400 cannot be conducted.
+
+---
+
+IE 400 - WHEN TO CONDUCT:
+- Conduct IE 400 summer practice in Summer 2025.
+- Available time interval (~3 months): June 25 – September 26.
+- If you attend summer school, your summer practice period should not overlap with summer school.
+- Minimum practice is 20 workdays (4 weeks). This duration can be more if the company requests it.
+- You can conduct IE 400 during semester break in winter as well, if 20 workdays are available in the break.
+- If you are in graduation status and have completed all course work, you can conduct both IE 300 and IE 400 in succession in Summer 2025.
+
+---
+
+REGISTRATION FOR IE 400:
+- After SP is completed, you must register for IE 400 in the immediate following academic term (Fall 2025-2026).
+- Summer practice reports are due within the first 4 weeks of the registered academic term.
+- Due date: October 24, 2025.
+
+---
+
+STEP 1: SEARCH FOR ALTERNATIVE COMPANIES
+
+Accepted company types for IE 400:
+
+Manufacturing firms (same as IE 300):
+- Automotive, Machine parts, Electronics, Furniture, Textiles, Consumer durables
+- Batch process industries: Steel, Paper mills, Pharmaceutical, Food and beverages
+
+ALSO accepted for IE 400 (unlike IE 300):
+- Continuous process industries: Cement, concrete, Sugar, Flour mill
+- Service industries: Hospitals, Hotels, Banking, Research organizations (ODTÜ Teknokent, etc.), Transportation, cargo carriers, Public institutions, Non-governmental organizations (NGOs)
+
+KEY DIFFERENCE FROM IE 300: IE 400 accepts both manufacturing AND service companies, while IE 300 only accepts manufacturing companies.
+
+The department lists firms on the SP website > SP Opportunities.
+
+Work mode rules:
+- Manufacturing company: summer practice must be totally face-to-face (in the plant).
+- Service company: summer practice can be either face-to-face or hybrid (face-to-face + online).
+
+---
+
+STEP 2: EVALUATE THE COMPANY
+- Check the IE 400 Manual from https://sp-ie.metu.edu.tr > Documents/Forms tab.
+- Two types of manuals: (i) manufacturing manual and (ii) service manual.
+- Check whether you can answer the questions without much difficulty.
+- Consider: Number of employees? How many engineers, IEs? Production capacity? Information system? ERP?
+- The SP Committee does not examine and confirm the suitability of your SP company in advance.
+- Students determine whether the company is appropriate.
+- Discuss with SP Committee if unsure.
+
+---
+
+STEP 3: APPLY TO THE COMPANY
+- Same as IE 300. Use SP Application Form and/or SP Protocol from Documents/Forms tab.
+- You can apply to more than one company; for each company, fill out a separate form.
+- After filling the protocol form, leave it at Undergraduate Secretary Office, IE 128. Pick up in a week.
+
+---
+
+STEP 4: APPLY FOR THE INSURANCE
+- Same procedure as IE 300 via METU OCW.
+- Apply 2 weeks before the beginning of your SP.
+- Upload Declaration Form to OCW.
+- Get "Sigortalı İşe Başlama Belgesi" from e-devlet when ready.
+- Compulsory insurance: iş kazası ve meslek hastalığı sigortası (Law #5510).
+- For compulsory SPs: insurance for 20 workdays to 3 months.
+- For voluntary SPs: insurance for one month at most for one organization.
+- Insurance is made for summer practices abroad as well.
+- If company insures you, no need to apply to the university.
+
+---
+
+STEP 5: CONDUCT YOUR SUMMER PRACTICE
+
+Three modes of IE 400 SP:
+
+1. Individual:
+   - At least 20 workdays
+   - Write your own report
+
+2. Group of two students:
+   - At least 20 workdays
+   - Each writes his/her own report
+   - Project/problem should be much more involved
+   - Notify the SP committee in the first week of practice
+
+3. Project-based:
+   - At least 6 weeks (30 workdays)
+   - Two-page proposal must be approved by SP Committee before SP starts
+   - Content and format is different (see the manual)
+
+Other tasks during SP:
+- Download "Evaluation Form and Employer Survey Form" from Documents/Forms tab.
+- Attach a recent photograph to the first page.
+- Company fills out forms at the end of SP and emails to sp-belge@metu.edu.tr.
+- Search for a "Systems Design Project" during your SP — it is a good opportunity to find SD projects.
+- Look for interesting problems; ask engineers about potential challenging problems for the SD project.
+- If you identify a problem, check with the SD committee (NOT the SP committee).
+
+---
+
+STEP 6: SUBMIT YOUR REPORT
+- Upload SP report and questionnaire at odtuclass by the announced due date.
+- The report consists of two sections: "Questions" and "Problem/Project" — graded separately. Grade S is required in both parts to pass IE 400.
+- IE 400 manuals are of two types: (i) manufacturing manual and (ii) service manual.
+- In some questions (e.g. accounting, finance), provide information about the method used at least.
+- For each question, provide sufficient explanation and analysis; figure/table only is not accepted.
+- Read the explanation in each question and answer accordingly.
+- You can start writing your report during the practice.
+- Use "Google Grammarly" to correct the report before submission.
+- Submit soft copy (pdf: docx converted to pdf) at odtuclass IE 400 – turnitin assignment. Similarity must be < 20%.
+- Reports are also checked whether they are AI generated.
+- For the questionnaire: use METU Survey (info from SP Committee at beginning of semester).
+- If you received payment: fill "Paid SP questionnaire" at OCW, upload signed Paid SP Form and bank receipt as a Zip file.
+
+---
+
+VOLUNTARY SP:
+- Possible to do a voluntary internship for additional work experience.
+- University provides insurance after completing second year.
+- For voluntary SPs: insurance for one month at most for one organization.
+- Follow the same insurance application procedure.
+
+---
+
+IMPORTANT NOTES:
+- ie-staj@metu.edu.tr is NOT a call center. Check the slide set and web page before emailing.

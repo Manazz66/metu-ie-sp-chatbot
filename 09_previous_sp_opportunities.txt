@@ -1,0 +1,36 @@
+PAGE: Previous SP Opportunities
+SOURCE: https://sp-ie.metu.edu.tr/en/previous-sp-opportunites
+
+---
+
+Companies that have previously offered summer practice opportunities to METU IE students:
+
+1. Wicode - IE300: No, IE400: Yes - Location: ODTÜ Teknokent
+2. SİLKAR MADENCİLİK SANAYİ VE TİCARET A.Ş. - IE300: Yes, IE400: Yes - Location: Bilecik
+3. Tezcanlar Yatırım A.Ş. - IE300: Yes, IE400: Yes - Location: Hacı Sabancı Org. San. Böl., Sarıçam/Adana
+4. Hazine ve Maliye Bakanlığı (Bilgi Teknolojileri Genel Müdürlüğü) - IE300: No, IE400: Yes - Location: Dikmen Caddesi No:12 A Blok, Çankaya/Ankara
+5. İnofab Sağlık Teknolojiler A.Ş. - IE300: No, IE400: Yes - Location: ODTÜ Teknokent / Silikon Blok K:1 No:15, Çankaya/Ankara
+6. Ekinciler Demir ve Çelik SAN A.Ş. - IE300: No, IE400: Yes - Location: İskenderun/Hatay
+7. Muğla Su ve Kanalizasyon İdaresi Genel Müdürlüğü - IE300: No, IE400: Yes - Location: Menteşe/Muğla
+8. Kula Yağ Sanayi ve Ticaret A.Ş. - IE300: No, IE400: Yes - Location: Kepsut Caddesi, Altı Eylül/Balıkesir
+9. YÜKSEL KOMPOZİT TEKNOLOJİLERİ A.Ş. (Aviation and Defense Industry) - IE300: Yes, IE400: Yes - Location: Başkent OSB, Malıköy Sincan/Ankara
+10. SÖĞÜT SERAMİK (floor and wall tile production) - IE300: Yes, IE400: Yes - Location: Söğüt/Bilecik
+11. İĞREK MAKİNA A.Ş. - IE300: No, IE400: Yes - Location: OSB Ali Osman Sönmez Bulvarı No:10, Nilüfer/Bursa
+12. Stackpole International (Automotive supply, oil pump production) - IE300: Yes, IE400: Yes - Location: Ege Serbest Bölgesi, Çınar Sk. No:11, Gaziemir/İzmir
+13. İPEK MOBİLYA Çinkom ŞUBESİ (külçe çinko ve klinker çinko üretimi) - IE300: Yes, IE400: Yes - Location: İncesu/Kayseri
+14. Nazkaya Ambalaj Sanayi (2 Facilities) - IE300: Yes, IE400: Yes
+15. Silverline Endüstri ve Ticaret A.Ş. - IE300: Yes, IE400: Yes - Location: Organize Sanayi Bölgesi, 05300 Merzifon/Amasya
+16. ŞA-RA Enerji İnş. Tic. San. A.Ş. - IE300: Yes, IE400: Yes - Location: Ceyhan Yolu üzeri 30. km, Yüreğir/Adana
+17. Kanca El Aletleri Dövme Çelik ve Makina San. A.Ş. - IE300: No, IE400: Yes - Location: TOSB 1. Cadde No:9, Çayırova/Kocaeli
+18. KAANLAR GIDA San. ve Tic. A.Ş. - IE300: No, IE400: Yes - Location: Çavuşköy, Malkara/Tekirdağ
+19. SENKRON PLASTİK - IE300: Yes, IE400: Yes - Location: Ostim Megacenter, Yenimahalle/Ankara
+20. TELMEK A.Ş. - IE300: No, IE400: Yes - Location: Ostim OSB Abdülkadir Geylani Cad. No:24/A, Ostim/Ankara
+21. Meka Beton Santralleri İmalat A.Ş. - IE300: Yes, IE400: Yes - Location: Malıköy/Ankara
+22. Akdaş Döküm Sanayi ve Ticaret A.Ş. - IE300: Yes, IE400: Yes - Location: Sincan/Ankara
+23. ELTEM-TEK Elektrik Tesisleri Müh. Müt. Danışmanlık ve Tic. A.Ş. - IE300: No, IE400: Yes - Location: Balgat/Ankara
+24. Şişecam - IE300: Yes, IE400: Yes
+25. Eczacıbaşı Bilişim - IE300: Yes, IE400: Yes
+26. ILGAZ GRUP - IE300: No, IE400: Yes
+27. Forte - IE300: Yes, IE400: Yes
+28. Koç Holding ve Microsoft Türkiye - IE300: Yes, IE400: Yes
+29. Ofisus Danışmanlık ve Yazılım A.Ş. - IE300: No, IE400: Yes

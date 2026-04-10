@@ -1,0 +1,186 @@
+PAGE: SP Opportunities
+SOURCE: https://sp-ie.metu.edu.tr/en/sp-opportunities
+
+---
+
+Current summer practice opportunities shared by organizations that contacted the department:
+
+1. MS Spektral Savunma Sanayi A.Ş.
+   - Location: Başkent OSB
+   - Email: insan.kaynaklari@msspektral.com
+   - Area: Production planning candidate engineer
+   - Wage: Yes
+   - Contact: Tolga Öztürk - 0(505)9500813
+   - Notes: Insurance, food, and transportation support provided. Third-year students (for IE400) preferred. Program lasts one year, may be extended. May lead to full-time position upon mutual agreement.
+
+2. NACRES Yazılım Teknoloji
+   - Email: sercansarman@nacres.com.tr
+   - Website: www.nacres.com.tr
+   - Notes: For 4th year students
+
+3. GÜRİŞ
+   - Program: GÜRİŞ Genç Yetenek Uzun Dönem Staj Programı
+   - Application: Via LinkedIn or ODTÜ KPM website
+
+4. Noksel Çelik Boru Sanayi AŞ
+   - Email: noksel@noksel.com.tr
+   - Areas: Üretim, kalite, bakım, satış, proje yönetimi, iş geliştirme
+   - Contact: Banu Çağlar - 03124725959 / bcaglar@noksel.com.tr
+
+5. Koçtaş
+   - Application: https://www.kockariyerim.com/jobAds/koCtaS-s-t-e-p-2025-istanbul/bfe64e7...
+   - Notes: For IE 400. Hybrid (2 days office / 3 days remote). Due date: April 30, 2025. Send notification email to ie-staj@metu.edu.tr after applying.
+
+6. İGA (İstanbul Havalimanı)
+   - Application: Kariyer Kapısı - İGA Staj Programı
+
+7. TÜMAŞ Türk Mühendislik Müşavirlik Ve Müt. A.Ş.
+   - Location: Kavaklıdere, Ankara
+   - Email: cuneyt.nalcaci@tumas.com.tr
+   - Areas: Projelendirme, Saha Kontrollük - Müşavirlik
+   - Wage: No
+   - Contact: Betül Durmaz - 03124176025
+
+8. ELTAŞ TRANSFORMATÖR SAN. TİC. AŞ.
+   - Location: Aliağa, İzmir
+   - Email: mujdat.bilgic@eltas.com.tr
+   - Areas: Projelendirme, Montaj, Üretim, AR-GE, Kalite, Test
+   - Wage: Yes
+   - Contact: Duygu Ünlü - 05325559827
+
+9. UDEA Elektronik San. ve Tic. A.Ş.
+   - Location: Yenimahalle/Ankara
+   - Email: ik@udea.com.tr
+   - Area: Üretim
+   - Wage: No
+   - Contact: Sıla Atay - 05393090169
+
+10. EKER SÜT ÜRÜNLERİ GIDA SAN ve TİC.A.Ş.
+    - Location: Mustafakemalpaşa/Bursa
+    - Email: info@eker.com
+    - Areas: Üretim, Bakım-Onarım, AR-GE
+    - Wage: Yes
+    - Contact: Hatice Özdemir Çakır - 02244443537
+
+11. HİDROAN ANKARA HİDROLİK MAKİNE SANAYİ TİC.LTD.ŞTİ.
+    - Location: Sincan, Ankara
+    - Email: info@hidroan.com.tr
+    - Areas: Projelendirme, Montaj, Üretim, AR-GE, Yazılım, Talaşlı Kaynaklı Üretim, Boya
+    - Wage: No
+    - Contact: Neşet Dağdelen - 5498204886
+
+12. MTM MAKİNA TİC MUM MUS PET LOJ LTD STİ
+    - Location: Kavaklıdere, Ankara
+    - Email: MTM@mtmmakina.com.tr
+    - Areas: Projelendirme, Montaj, Bakım-Onarım
+    - Wage: Yes
+    - Contact: Bahar Dayığı - 05322380010
+
+13. Emet Bor İşletme Müdürlüğü
+    - Email: emet@etimaden.gov.tr
+    - Area: Üretim
+    - Wage: Yes
+    - Contact: Ömer Temur - 5368236356
+
+14. MPES Mühendislik
+    - Location: Çankaya/Ankara
+    - Email: info@mpes.com.tr
+    - Areas: Projelendirme, Üretim, AR-GE
+    - Wage: Yes
+    - Contact: Zafer Demirtaş - 05423991240
+
+15. İMECAR ELEKTRONİK SAN. VE TİC. LTD. ŞTİ.
+    - Location: Döşemealtı/Antalya
+    - Email: info@imecar.com
+    - Areas: Projelendirme, Üretim, AR-GE
+    - Wage: No
+    - Contact: Buket Aytekin - 05317270525
+
+16. Gönenli Süt ve Süt Ürünleri Gıda ve San. Tic. A.Ş.
+    - Location: Gönen, Balıkesir
+    - Email: insankaynaklari@gonenlisut.com
+    - Area: Üretim
+    - Wage: No
+    - Contact: Burcu Cöne - 5349595126
+
+17. DURUKAN ŞEKERLEME SAN. VE TİC. A.Ş.
+    - Location: Sincan/Ankara
+    - Email: ik@durukan.com.tr
+    - Areas: Üretim, AR-GE
+    - Wage: Yes
+    - Contact: İnsan Kaynakları - 05344564971
+
+18. Koluman Otomotiv Endüstri A.Ş. (Hacettepe Teknokent)
+    - Location: Çankaya/Ankara
+    - Email: aybike.kirim@koluman.com
+    - Areas: Projelendirme, AR-GE
+    - Wage: Yes
+    - Contact: Aybike Kırım - 05496513225
+
+19. BAŞÖZ ENERJİ TAAH. SAN. VE TİC. A.Ş.
+    - Location: Temelli, Ankara
+    - Email: basoz@basozenerji.com.tr
+    - Areas: Üretim, Bakım-Onarım
+    - Wage: Yes
+    - Contact: Gamze Doğan - 05416955792
+
+20. Anadolu Sigorta
+    - Location: Beykoz/İstanbul
+    - Email: bilgi@anadolusigorta.com.tr
+    - Areas: Projelendirme, AR-GE
+    - Wage: Yes
+    - Contact: İlayda Yelken Hocaoğlu - 08507440423
+
+21. TEI TUSAŞ MOTOR SANAYİİ A.Ş.
+    - Location: Tepebaşı/Eskişehir
+    - Email: insankaynaklari@tei.com.tr
+    - Areas: Projelendirme, Montaj, Üretim, Bakım-Onarım, AR-GE
+    - Wage: Yes
+    - Contact: Alpaslan Demir - 02222112100
+    - Notes: For 4th year students
+
+22. Ledbim Bilişim
+    - Location: Muratpaşa/Antalya
+    - Email: info@ledbim.com
+    - Areas: Projelendirme, AR-GE
+    - Wage: No
+    - Contact: Hüseyin Yılmaz - 05469756501
+    - Notes: For 4th year students
+
+23. Kütahya Porselen San. A.Ş.
+    - Location: Kütahya
+    - Email: info@kutahyaporselen.com.tr
+    - Area: Üretim
+    - Wage: No
+    - Notes: For 4th year students
+
+24. DEICO
+    - Location: Yenimahalle/Ankara
+    - Email: info@deico.com.tr
+    - Areas: Montaj, Üretim, AR-GE
+    - Wage: No
+    - Contact: Berat Akçay - 05313051961
+    - Notes: For 4th year students
+
+25. VERTE
+    - Location: Yenimahalle/Ankara
+    - Email: info@verteelektronik.com
+    - Areas: Üretim, AR-GE
+    - Wage: No
+    - Contact: Berat Akçay - 05313051961
+    - Notes: For 4th year students
+
+26. Hestaş Madencilik
+    - Location: Çankaya/Ankara
+    - Email: ik@hestas.com.tr
+    - Area: Madencilik
+    - Wage: No
+    - Contact: Gözde Söğüt Uçak - 05393086837
+    - Notes: For 4th year students
+
+27. EUROPOWER ENERJİ
+    - Location: Ankara
+    - Email: insan.kaynaklari@europowerenerji.com.tr
+    - Areas: Projelendirme, Montaj, Üretim, Bakım-Onarım, AR-GE
+    - Wage: Yes
+    - Notes: For 4th year students
