@@ -1,5 +1,6 @@
 import streamlit as st
 import os
+import re
 import numpy as np
 from pathlib import Path
 from google import genai
@@ -12,8 +13,14 @@ st.set_page_config(
 )
 
 # ── Constants ────────────────────────────────────────────────
-KNOWLEDGE_BASE_DIR = Path(__file__).parent / "knowledge_base"
-CACHE_VERSION = "v4"  # Change this to force cache rebuild
+APP_DIR = Path(__file__).parent
+
+# Look for knowledge base files: first try knowledge_base/ subfolder, then root
+KB_DIR = APP_DIR / "knowledge_base"
+if not KB_DIR.exists() or not list(KB_DIR.glob("*.txt")):
+    KB_DIR = APP_DIR  # fallback: txt files are in repo root
+
+CACHE_VERSION = "v5"
 
 SYSTEM_INSTRUCTION = """You are the official METU Industrial Engineering Summer Practice Assistant.
 Your sole purpose is to help students with questions about METU IE Summer Practice (IE 300 and IE 400).
@@ -43,61 +50,67 @@ def chunk_text(text: str, chunk_size: int = 800, overlap: int = 150) -> list[str
     return chunks
 
 
-# ── Get Gemini client ────────────────────────────────────────
+# ── Get knowledge base txt files ─────────────────────────────
+def get_kb_files() -> list[Path]:
+    """Find knowledge base text files (numbered like 01_xxx.txt, 02_xxx.txt)."""
+    pattern = re.compile(r"^\d{2}_.*\.txt$")
+    files = sorted([f for f in KB_DIR.iterdir() if f.is_file() and pattern.match(f.name)])
+    return files
+
+
+# ── Gemini client ────────────────────────────────────────────
 def get_client(api_key: str):
     return genai.Client(api_key=api_key)
 
 
-# ── Embed a single text ─────────────────────────────────────
 def embed_single(text: str, client) -> list[float]:
-    """Embed a single text, returns a list of floats."""
     result = client.models.embed_content(
         model="gemini-embedding-001",
         contents=text,
     )
-    values = list(result.embeddings[0].values)
-    return values
+    return list(result.embeddings[0].values)
 
 
 # ── Build knowledge base ─────────────────────────────────────
 @st.cache_resource(show_spinner="📚 Bilgi tabanı yükleniyor / Loading knowledge base...")
 def build_knowledge_base(api_key: str, _version: str = CACHE_VERSION):
-    """Load text files, chunk them, embed with Gemini."""
     client = get_client(api_key)
 
     all_chunks = []
     all_sources = []
 
-    for txt_file in sorted(KNOWLEDGE_BASE_DIR.glob("*.txt")):
+    kb_files = get_kb_files()
+
+    if not kb_files:
+        raise ValueError(f"No knowledge base files found in {KB_DIR}")
+
+    for txt_file in kb_files:
         text = txt_file.read_text(encoding="utf-8")
         chunks = chunk_text(text)
         for c in chunks:
             all_chunks.append(c)
             all_sources.append(txt_file.name)
 
-    # Embed all chunks one by one with progress
+    if not all_chunks:
+        raise ValueError("Knowledge base is empty — no text chunks created.")
+
+    # Embed all chunks
     all_embeddings = []
-    for i, chunk in enumerate(all_chunks):
+    for chunk in all_chunks:
         try:
             emb = embed_single(chunk, client)
             all_embeddings.append(emb)
         except Exception as e:
-            # If a single chunk fails, use zeros as fallback
             if all_embeddings:
                 dim = len(all_embeddings[0])
             else:
                 dim = 3072
             all_embeddings.append([0.0] * dim)
 
-    # Convert to numpy
     embeddings_np = np.array(all_embeddings, dtype=np.float32)
 
-    # Validate shape
     if embeddings_np.ndim != 2 or embeddings_np.shape[1] == 0:
-        raise ValueError(
-            f"Embedding shape is invalid: {embeddings_np.shape}. "
-            f"Expected (n_chunks, embedding_dim)."
-        )
+        raise ValueError(f"Embedding shape invalid: {embeddings_np.shape}")
 
     # Normalize
     norms = np.linalg.norm(embeddings_np, axis=1, keepdims=True)
@@ -107,7 +120,7 @@ def build_knowledge_base(api_key: str, _version: str = CACHE_VERSION):
     return all_chunks, all_sources, embeddings_np
 
 
-def retrieve(query: str, chunks, sources, embeddings_np, api_key: str, top_k: int = 5):
+def retrieve(query, chunks, sources, embeddings_np, api_key, top_k=5):
     client = get_client(api_key)
     query_emb = np.array(embed_single(query, client), dtype=np.float32)
     query_emb = query_emb / (np.linalg.norm(query_emb) + 1e-10)
@@ -115,17 +128,10 @@ def retrieve(query: str, chunks, sources, embeddings_np, api_key: str, top_k: in
     scores = embeddings_np @ query_emb
     top_indices = np.argsort(scores)[::-1][:top_k]
 
-    results = []
-    for idx in top_indices:
-        results.append({
-            "text": chunks[idx],
-            "source": sources[idx],
-            "score": float(scores[idx]),
-        })
-    return results
+    return [{"text": chunks[i], "source": sources[i], "score": float(scores[i])} for i in top_indices]
 
 
-def ask_gemini(question: str, context: str, chat_history: list, api_key: str) -> str:
+def ask_gemini(question, context, chat_history, api_key):
     client = get_client(api_key)
 
     history_text = ""
@@ -147,10 +153,7 @@ STUDENT'S QUESTION: {question}
 
 Provide a helpful answer based on the context above."""
 
-    response = client.models.generate_content(
-        model="gemini-2.0-flash",
-        contents=prompt,
-    )
+    response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
     return response.text
 
 
@@ -162,30 +165,20 @@ st.caption(
     "Kaynak: [sp-ie.metu.edu.tr](https://sp-ie.metu.edu.tr/en)"
 )
 
-# ── Sidebar ──────────────────────────────────────────────────
 with st.sidebar:
     st.header("⚙️ Settings")
-
     api_key = ""
     try:
         api_key = st.secrets["GEMINI_API_KEY"]
     except (KeyError, FileNotFoundError):
         api_key = os.environ.get("GEMINI_API_KEY", "")
-
     if not api_key:
-        api_key = st.text_input(
-            "Google Gemini API Key",
-            type="password",
-            placeholder="AIza...",
-        )
+        api_key = st.text_input("Google Gemini API Key", type="password", placeholder="AIza...")
         st.caption("🔒 API anahtarınız sunucuda saklanmaz.")
-        st.markdown(
-            "[Ücretsiz API Key al →](https://aistudio.google.com/apikey)"
-        )
+        st.markdown("[Ücretsiz API Key al →](https://aistudio.google.com/apikey)")
 
     st.divider()
-    st.markdown(
-        """
+    st.markdown("""
 **Useful Links**
 - [SP Website](https://sp-ie.metu.edu.tr/en)
 - [General Information](https://sp-ie.metu.edu.tr/en/general-information)
@@ -193,47 +186,36 @@ with st.sidebar:
 - [Documents / Forms](https://sp-ie.metu.edu.tr/en/forms)
 - [FAQ](https://sp-ie.metu.edu.tr/en/faq)
 - [SP Opportunities](https://sp-ie.metu.edu.tr/en/sp-opportunities)
-        """
-    )
+    """)
     st.divider()
-    st.markdown(
-        """
+    st.markdown("""
 **SP Committee Contact**  
 📧 ie-staj@metu.edu.tr  
 📧 sp-belge@metu.edu.tr *(for evaluation forms)*
-        """
-    )
-
+    """)
     if st.button("🗑️ Sohbeti Temizle / Clear Chat"):
         st.session_state.messages = []
         st.rerun()
 
-# ── Guard: no key ────────────────────────────────────────────
 if not api_key:
-    st.info(
-        "👈 Lütfen sol panelden Google Gemini API anahtarınızı girin.\n\n"
-        "Please enter your Google Gemini API key in the sidebar.\n\n"
-        "[Ücretsiz key al / Get free key →](https://aistudio.google.com/apikey)"
-    )
+    st.info("👈 Lütfen sol panelden Google Gemini API anahtarınızı girin.\n\n"
+            "Please enter your Google Gemini API key in the sidebar.\n\n"
+            "[Ücretsiz key al / Get free key →](https://aistudio.google.com/apikey)")
     st.stop()
 
-# ── Build knowledge base ─────────────────────────────────────
 try:
     chunks, sources, embeddings_np = build_knowledge_base(api_key, CACHE_VERSION)
 except Exception as e:
     st.error(f"Bilgi tabanı yüklenirken hata oluştu: {e}")
     st.stop()
 
-# ── Session state ────────────────────────────────────────────
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# ── Render chat history ──────────────────────────────────────
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
-# ── Sample questions (only when chat is empty) ───────────────
 if not st.session_state.messages:
     st.markdown("##### 💡 Örnek Sorular / Sample Questions")
     cols = st.columns(2)
@@ -248,10 +230,7 @@ if not st.session_state.messages:
             st.session_state.pending_question = q
             st.rerun()
 
-# ── Handle pending sample question ───────────────────────────
 pending = st.session_state.pop("pending_question", None)
-
-# ── Chat input ───────────────────────────────────────────────
 user_input = st.chat_input("Sorunuzu yazın / Type your question...")
 question = pending or user_input
 
@@ -263,23 +242,14 @@ if question:
     with st.chat_message("assistant"):
         with st.spinner("Düşünüyorum... / Thinking..."):
             try:
-                retrieved = retrieve(
-                    question, chunks, sources, embeddings_np, api_key, top_k=5
-                )
-                context = "\n\n---\n\n".join(
-                    [f"[Source: {r['source']}]\n{r['text']}" for r in retrieved]
-                )
-
-                answer = ask_gemini(
-                    question, context, st.session_state.messages, api_key
-                )
+                retrieved = retrieve(question, chunks, sources, embeddings_np, api_key, top_k=5)
+                context = "\n\n---\n\n".join([f"[Source: {r['source']}]\n{r['text']}" for r in retrieved])
+                answer = ask_gemini(question, context, st.session_state.messages, api_key)
                 st.markdown(answer)
-
                 source_files = sorted(set(r["source"] for r in retrieved))
                 with st.expander("📄 Kaynaklar / Sources"):
                     for s in source_files:
                         st.caption(f"• {s}")
-
             except Exception as e:
                 answer = f"Bir hata oluştu / An error occurred: {str(e)}"
                 st.error(answer)
