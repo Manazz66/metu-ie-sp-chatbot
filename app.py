@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import re
+import time
 import numpy as np
 from pathlib import Path
 from google import genai
@@ -94,18 +95,27 @@ def build_knowledge_base(api_key: str, _version: str = CACHE_VERSION):
     if not all_chunks:
         raise ValueError("Knowledge base is empty — no text chunks created.")
 
-    # Embed all chunks
+    # Embed all chunks (with rate limiting: max 100 req/min on free tier)
     all_embeddings = []
-    for chunk in all_chunks:
-        try:
-            emb = embed_single(chunk, client)
-            all_embeddings.append(emb)
-        except Exception as e:
-            if all_embeddings:
-                dim = len(all_embeddings[0])
-            else:
-                dim = 3072
-            all_embeddings.append([0.0] * dim)
+    for i, chunk in enumerate(all_chunks):
+        for attempt in range(3):  # retry up to 3 times
+            try:
+                emb = embed_single(chunk, client)
+                all_embeddings.append(emb)
+                break
+            except Exception as e:
+                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                    time.sleep(30)  # wait 30 sec on rate limit
+                else:
+                    if all_embeddings:
+                        dim = len(all_embeddings[0])
+                    else:
+                        dim = 3072
+                    all_embeddings.append([0.0] * dim)
+                    break
+        # Small delay to stay under rate limit (100/min)
+        if (i + 1) % 90 == 0:
+            time.sleep(60)
 
     embeddings_np = np.array(all_embeddings, dtype=np.float32)
 
